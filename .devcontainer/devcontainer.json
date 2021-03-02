@@ -1,0 +1,9 @@
+{
+    "name": "html test project",
+    "dockerComposeFile": "html/Dockerfile",
+    "service": "html",
+    "workspaceFolder": "/tmp/work",
+    "settings": {
+        "editor.tabSize": 2,
+    },
+}
