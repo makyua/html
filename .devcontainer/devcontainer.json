@@ -1,8 +1,8 @@
 {
     "name": "html test project",
-    "dockerComposeFile": "html/Dockerfile",
+    "dockerComposeFile": "./html/Dockerfile",
     "service": "html",
-    "workspaceFolder": "/tmp/work",
+    "workspaceFolder": "/usr/local/apache2/htdocs",
     "settings": {
         "editor.tabSize": 2,
     },
