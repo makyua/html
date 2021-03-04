@@ -1,6 +1,10 @@
 {
     "name": "html test project",
+<<<<<<< HEAD
     "dockerComposeFile": "docker-compose.yml",
+=======
+    "dockerComposeFile": "./html/Dockerfile",
+>>>>>>> 85fdef4458a71c6fcd2378af5e90a4a58ceec57b
     "service": "html",
     "workspaceFolder": "/usr/local/apache2/htdocs",
     "settings": {
